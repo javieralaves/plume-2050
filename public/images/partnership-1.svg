@@ -1,0 +1,14 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#0A0A0A"/>
+  
+  <!-- Bank Building Representation -->
+  <rect x="250" y="100" width="300" height="250" fill="#7C3AED" fill-opacity="0.2"/>
+  <rect x="300" y="150" width="50" height="80" fill="#7C3AED" fill-opacity="0.3"/>
+  <rect x="400" y="150" width="50" height="80" fill="#7C3AED" fill-opacity="0.3"/>
+  
+  <!-- Columns -->
+  <rect x="270" y="80" width="20" height="300" fill="#7C3AED" fill-opacity="0.4"/>
+  <rect x="390" y="80" width="20" height="300" fill="#7C3AED" fill-opacity="0.4"/>
+  <rect x="510" y="80" width="20" height="300" fill="#7C3AED" fill-opacity="0.4"/>
+</svg> 

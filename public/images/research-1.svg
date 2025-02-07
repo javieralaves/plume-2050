@@ -1,0 +1,19 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#0A0A0A"/>
+  <path d="M0 0 L800 450 M800 0 L0 450" stroke="#7C3AED" stroke-opacity="0.1" stroke-width="2"/>
+  
+  <!-- Abstract Data Visualization -->
+  <circle cx="400" cy="225" r="150" stroke="#7C3AED" stroke-opacity="0.2" stroke-width="2"/>
+  <circle cx="400" cy="225" r="100" stroke="#7C3AED" stroke-opacity="0.3" stroke-width="2"/>
+  
+  <!-- Data Points -->
+  <circle cx="300" cy="175" r="5" fill="#7C3AED"/>
+  <circle cx="450" cy="200" r="5" fill="#7C3AED"/>
+  <circle cx="400" cy="300" r="5" fill="#7C3AED"/>
+  
+  <!-- Connecting Lines -->
+  <line x1="300" y1="175" x2="450" y2="200" stroke="#7C3AED" stroke-opacity="0.5"/>
+  <line x1="450" y1="200" x2="400" y2="300" stroke="#7C3AED" stroke-opacity="0.5"/>
+  <line x1="400" y1="300" x2="300" y2="175" stroke="#7C3AED" stroke-opacity="0.5"/>
+</svg> 

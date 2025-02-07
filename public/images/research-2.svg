@@ -1,0 +1,17 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#0A0A0A"/>
+  
+  <!-- Grid Pattern -->
+  <path d="M0 150 H800 M0 300 H800" stroke="#7C3AED" stroke-opacity="0.1"/>
+  <path d="M200 0 V450 M400 0 V450 M600 0 V450" stroke="#7C3AED" stroke-opacity="0.1"/>
+  
+  <!-- AI Network Visualization -->
+  <path d="M100 225 Q400 50, 700 225 Q400 400, 100 225" 
+        stroke="#7C3AED" stroke-opacity="0.3" fill="none"/>
+  
+  <!-- Node Points -->
+  <circle cx="200" cy="225" r="8" fill="#7C3AED"/>
+  <circle cx="400" cy="225" r="8" fill="#7C3AED"/>
+  <circle cx="600" cy="225" r="8" fill="#7C3AED"/>
+</svg> 

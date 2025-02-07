@@ -1,0 +1,15 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#0A0A0A"/>
+  
+  <!-- Panel Setup -->
+  <rect x="150" y="150" width="500" height="200" fill="#7C3AED" fill-opacity="0.1"/>
+  
+  <!-- Speakers -->
+  <circle cx="250" cy="200" r="20" fill="#7C3AED"/>
+  <circle cx="400" cy="200" r="20" fill="#7C3AED"/>
+  <circle cx="550" cy="200" r="20" fill="#7C3AED"/>
+  
+  <!-- Table -->
+  <rect x="200" y="250" width="400" height="20" fill="#7C3AED" fill-opacity="0.3"/>
+</svg> 

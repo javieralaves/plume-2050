@@ -1,0 +1,28 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Grid -->
+  <path d="M50 50 H350 V350 H50 Z" fill="#7C3AED" fill-opacity="0.05"/>
+  <path d="M50 150 H350 M50 250 H350 M150 50 V350 M250 50 V350" 
+        stroke="#7C3AED" stroke-opacity="0.1" stroke-width="1"/>
+  
+  <!-- Tax Flow Visualization -->
+  <path d="M100 300 Q200 100, 300 300" 
+        stroke="#7C3AED" stroke-width="4" fill="none">
+    <animate attributeName="d" 
+             dur="3s"
+             repeatCount="indefinite"
+             values="M100 300 Q200 100, 300 300;
+                     M100 300 Q200 200, 300 300;
+                     M100 300 Q200 100, 300 300"/>
+  </path>
+  
+  <!-- City Buildings -->
+  <rect x="120" y="200" width="30" height="100" fill="#7C3AED" fill-opacity="0.2"/>
+  <rect x="160" y="150" width="30" height="150" fill="#7C3AED" fill-opacity="0.3"/>
+  <rect x="200" y="180" width="30" height="120" fill="#7C3AED" fill-opacity="0.2"/>
+  <rect x="240" y="130" width="30" height="170" fill="#7C3AED" fill-opacity="0.3"/>
+  
+  <!-- Smart Contract Symbols -->
+  <circle cx="200" cy="100" r="25" fill="#7C3AED" fill-opacity="0.2"/>
+  <path d="M185 100 L215 100 M200 85 L200 115" 
+        stroke="#7C3AED" stroke-width="3"/>
+</svg> 
